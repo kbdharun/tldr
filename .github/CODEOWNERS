@@ -15,7 +15,7 @@
 /pages.zh/ @blueskyson @einverne
 /pages.zh_TW/ @blueskyson
 
-/pages/linux/ @cyqsimon
+/pages/linux/ @cyqsimon @kbdharun
 
 /*.md @sbrl @kbdharun @sebastiaanspeck
 /.devcontainer/* @kbdharun @sebastiaanspeck
