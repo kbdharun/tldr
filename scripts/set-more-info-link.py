@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: MIT 
 
 """
 A Python script to add or update the "More information" link for all translations of a page.
